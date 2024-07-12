@@ -25,9 +25,8 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515991144028)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:painelilucas@gmail.com)
 
-<br>
-<h2>🔥 Skills</h2>
 <!-- Skills: Programming Languages -->
+<h2>🔥 Skills</h2>
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
