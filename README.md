@@ -42,7 +42,7 @@
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <div style="background-color: rgb(255, 0, 0); padding: 10px; display: inline-block;">
-    <img align="center" alt="VScode" height="43" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg
+    <img align="center" alt="VScode" height="43" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
     <img align="center" alt="VisualStudio" height="43" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
     <img align="center" alt="PyCharm" height="43" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg">
     <img align="center" alt="Trello" height="43" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
