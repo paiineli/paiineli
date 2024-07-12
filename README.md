@@ -43,8 +43,10 @@
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
     <img align="center" alt="VisualStudio" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
+    <img align="center" alt="PyCharm" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg">
+    <img align="center" alt="SQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
     <img align="center" alt="Oracle" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
-    <img align="center" alt="SQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
+    
     
   </div>
 <br>
