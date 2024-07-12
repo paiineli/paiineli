@@ -35,7 +35,7 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiineli&theme=dark&&hide_progress=true"/>
+
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
@@ -43,7 +43,8 @@
     <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
   </div>
-
-  ![me](https://github.com/user-attachments/assets/5dc39e9b-b2a8-493c-8906-6bf2902c009f)
+  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiineli&theme=dark&&hide_progress=true"/>
+![me](https://github.com/user-attachments/assets/5dc39e9b-b2a8-493c-8906-6bf2902c009f)
 
 
