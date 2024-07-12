@@ -18,7 +18,7 @@
   - 💬 I am 21 years old, currently living in Brazil. Systems Analyst with 4+ years in Oracle database management, healthcare systems, and software project management. Proven track record in leading software development and deploying integrated systems solutions. Looking to apply my technical and project management skills in a dynamic tech-driven company
 </details>
 
-
+<h2>💬 How to find me </h2>
 <!--links-->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@paiineli?feature=shared)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspaineli/)
