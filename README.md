@@ -43,8 +43,9 @@
     <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
   </div>
-  
+<br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiineli&theme=dark&&hide_progress=true"/>
+
 ![me](https://github.com/user-attachments/assets/5dc39e9b-b2a8-493c-8906-6bf2902c009f)
 
 
