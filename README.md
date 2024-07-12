@@ -22,6 +22,10 @@
 <!--links-->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@paiineli?feature=shared)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspaineli/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515991144028)
+[![Gmail]((https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](mailto:painelilucas@gmail.com)
+
+
 <h2>🔥 Skills</h2>
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
@@ -30,8 +34,6 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
-  
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiineli&theme=dark&&hide_progress=true"/>
 
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
@@ -40,5 +42,7 @@
     <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
   </div>
+
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiineli&theme=dark&&hide_progress=true"/>
   
 
