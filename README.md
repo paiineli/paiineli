@@ -47,7 +47,7 @@
     <img align="center" alt="Trello" height="43" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
     <img align="center" alt="Jira" height="43" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
     <img align="center" alt="SQL" height="43" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
-    <img align="center" alt="Oracle" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
+    <img align="center" alt="Oracle" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
     
     
   </div>
