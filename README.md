@@ -43,3 +43,5 @@
     <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
   </div>
+  
+![ezgif-5-83055e975b](https://github.com/user-attachments/assets/7e563b60-d2ee-43dd-9e48-48e14fecc9b0)
