@@ -33,11 +33,11 @@
     <h3>Programming Languages</h3>
     <img align="center" alt="HTML" height="43" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="43" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-    
-            
+    <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">  
   </div>
+  
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiineli&theme=dark&&hide_progress=true"/>
+
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
@@ -50,6 +50,5 @@
     <img align="center" alt="SQL" height="43" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
     <img align="center" alt="Oracle" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
     </div>
-    
-  </div>
+   </div>
 <br>
