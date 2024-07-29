@@ -53,5 +53,5 @@
    </div>
 <br>
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lucaspaineli" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/lucaspaineli?trk=profile-badge">Lucas Paineli Gimenes</a></div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lucaspaineli" data-version="v1"><a class="badge-
               
