@@ -54,8 +54,7 @@
     <img align="center" alt=".NET" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg">
     <img align="center" alt=".NETCORE" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
           
-    </div>
-   </div>
+
 <br>
 
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lucaspaineli" data-version="v1"><a class="badge-
