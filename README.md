@@ -6,7 +6,7 @@
 
 <!--presentation-->
 <p>
-  My name is Lucas! A passionate Data Science and Software Architect student from Brazil.
+  My name is Lucas! A Web Developer and Software Architect student from Brazil.
 
   - ✨ I've been integrating systems since 2020.<br>📚 I'm currently studying Phyton and SQL.
 </p>
