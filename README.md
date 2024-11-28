@@ -8,14 +8,14 @@
 <p>
   My name is Lucas! A Web Developer and Software Architect student from Brazil.
 
-  - ✨ I've been integrating systems since 2020.<br>📚 I'm currently studying Phyton and SQL.
+  - ✨ I've been integrating systems since 2020.<br>📚 I'm currently studying Phyton.
 </p>
 
 <!-- dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 21 years old, currently living in Brazil. Systems Analyst with 4+ years in Oracle database management, healthcare systems, and software project management. Proven track record in leading software development and deploying integrated systems solutions. Looking to apply my technical and project management skills in a dynamic tech-driven company
+  - 💬 I am 22 years old, currently living in Brazil. Solid experience in Oracle databases, healthcare systems, web development and software implementation project management. Proven track record in leading system implementations for the healthcare sector.
 </details>
 <h2>💬 How to find me </h2>
 
