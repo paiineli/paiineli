@@ -1,7 +1,8 @@
 **`Full Stack Developer (.NET / C# / JavaScript / Java)`**
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/demo/?color=89C8FF&center=true&vCenter=true&lines=Hi!+I'm+Lucas;Experienced+Full+Stack+Developer;Real+S" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/demo/?color=89C8FF&center=true&vCenter=true&lines=Hi!+I'm+Lucas;Experienced+Full+Stack+Developer;Real+S" /></a>
 </p>
 
 Building my view of the digital world, powered by coffee and endless curiosity.  
