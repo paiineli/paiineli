@@ -1,15 +1,23 @@
 **`Full Stack Developer (.NET / C# / JavaScript / Java)`**
 
-I build my vision of the digital world, fueled by coffee and constant curiosity.  
-I enjoy creating solutions from scratch, from planning to implementation, transforming real ideas and problems into functional code.
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/demo/?color=89C8FF&center=true&vCenter=true&lines=Hi!+I'm+Lucas;Experienced+Full+Stack+Developer;Real+S" />
+</p>
 
-I have a degree in **Systems Analysis and Development**, a postgraduate degree in **Software Architecture**, and I'm currently pursuing an **MBA in Business Management**.  
-When I'm not coding, I'm probably gaming or at the gym.
+Building my view of the digital world, powered by coffee and endless curiosity.  
+I love crafting solutions from scratch—from the first idea to deployment—turning real problems into code that actually works.
+
+Got a degree in **Systems Analysis and Development**, a postgrad in **Software Architecture**, and currently doing an **MBA in Business Management**.  
+When I'm not coding, you'll find me gaming or hitting the gym.
 
 <p align="left">
   <a href="https://github.com/paiineli?tab=followers">
     <img alt="Followers" title="Follow me on GitHub"
       src="https://custom-icon-badges.demolab.com/github/followers/paiineli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/seu_numero_aqui">
+    <img alt="Linkedin" title="Let's chat"
+      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
