@@ -1,21 +1,21 @@
-**`Desenvolvedor Full Stack`**
+**`Full Stack Developer (.NET / C# / JavaScript / Java)`**
 
-Construo minha visão do mundo digital, movido a café e curiosidade constante.  
-Curto criar soluções do zero, do planejamento à implementação, transformando ideias e problemas reais em código funcional.
+I build my vision of the digital world, fueled by coffee and constant curiosity.  
+I enjoy creating solutions from scratch, from planning to implementation, transforming real ideas and problems into functional code.
 
-Sou formado em **Análise e Desenvolvimento de Sistemas**, pós-graduado em **Arquitetura de Software** e atualmente cursando **MBA em Gestão de Negócios**.  
-Quando não estou codando, provavelmente estou jogando ou na academia.
+I have a degree in **Systems Analysis and Development**, a postgraduate degree in **Software Architecture**, and I'm currently pursuing an **MBA in Business Management**.  
+When I'm not coding, I'm probably gaming or at the gym.
 
 <p align="left">
   <a href="https://github.com/paiineli?tab=followers">
-    <img alt="Seguidores" title="Me siga no GitHub"
+    <img alt="Followers" title="Follow me on GitHub"
       src="https://custom-icon-badges.demolab.com/github/followers/paiineli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 💻 Linguagens de Programação
+### 💻 Programming Languages
 
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -26,7 +26,7 @@ Quando não estou codando, provavelmente estou jogando ou na academia.
 
 <br clear="left"/>
 
-### 🚀 Frameworks & Bibliotecas
+### 🚀 Frameworks & Libraries
 
 <img align="left" alt="Dotnet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
 <img align="left" alt="DotnetCore" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
@@ -35,7 +35,7 @@ Quando não estou codando, provavelmente estou jogando ou na academia.
 
 <br clear="left"/>
 
-### 🗄️ Bancos de Dados
+### 🗄️ Databases
 
 <img align="left" alt="SqlServer" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 <img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
@@ -43,7 +43,7 @@ Quando não estou codando, provavelmente estou jogando ou na academia.
 
 <br clear="left"/>
 
-### 🛠️ Ferramentas de Desenvolvimento
+### 🛠️ Development Tools
 
 <img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
@@ -54,7 +54,7 @@ Quando não estou codando, provavelmente estou jogando ou na academia.
 
 <br clear="left"/>
 
-### 🔧 DevOps & Versionamento
+### 🔧 DevOps & Version Control
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />          
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
@@ -62,7 +62,7 @@ Quando não estou codando, provavelmente estou jogando ou na academia.
 
 <br clear="left"/>
 
-### 🧪 APIs & Testes
+### 🧪 APIs & Testing
 
 <img align="left" alt="PostMan" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img align="left" alt="Swagger" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
@@ -70,13 +70,13 @@ Quando não estou codando, provavelmente estou jogando ou na academia.
 
 <br clear="left"/>
 
-### 📦 Gerenciadores de Pacotes
+### 📦 Package Managers
 
 <img align="left" alt="NuGet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" />
 
 <br clear="left"/>
 
-### 🎨 Design & Prototipação
+### 🎨 Design & Prototyping
 
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
@@ -84,7 +84,7 @@ Quando não estou codando, provavelmente estou jogando ou na academia.
 
 <br clear="left"/>
 
-### 📋 Gestão de Projetos
+### 📋 Project Management
 
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 <img align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
