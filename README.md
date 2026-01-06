@@ -1,4 +1,4 @@
-**`Desenvolvedor Full Stack (.NET / C# / JavaScript / Java)`**
+**`Desenvolvedor Full Stack`**
 
 Construo minha visão do mundo digital, movido a café e curiosidade constante.  
 Curto criar soluções do zero, do planejamento à implementação, transformando ideias e problemas reais em código funcional.
