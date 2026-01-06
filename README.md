@@ -9,18 +9,21 @@ When I'm not coding, you'll find me gaming or hitting the gym.
 
 <p align="left">
   <a href="https://github.com/paiineli?tab=followers">
-    <img alt="Followers" title="Follow me on GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/paiineli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img 
+      alt="Followers" 
+      title="Follow me on GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/paiineli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
+    />
   </a>
-  <a href="https://wa.me/seu_numero_aqui">
-    <img alt="Linkedin" title="Let's chat"
-      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/lucaspaineli/" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      title="Connect on LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+
 </p>
 
 ---
