@@ -5,6 +5,7 @@
 Building my view of the digital world, powered by coffee and endless curiosity.  
 
 Got a degree in **Systems Analysis and Development**, a postgrad in **Software Architecture**, and currently doing an **MBA in Business Management**.  
+
 When I'm not coding, you'll find me gaming or hitting the gym.
 
 <p align="left">
