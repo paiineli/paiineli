@@ -63,12 +63,9 @@ When I'm not coding, you'll find me gaming, hitting the gym, or studying Japanes
 
 ### Let's Connect
 
-- 💼 LinkedIn: [lucaspaineli](https://www.linkedin.com/in/lucaspaineli)
-- 📧 Email: painelilucas@gmail.com
-- 📍 São Paulo, Brazil
+- LinkedIn: [lucaspaineli](https://www.linkedin.com/in/lucaspaineli)
+- Email: painelilucas@gmail.com
+- São Paulo, Brazil
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paiineli&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
